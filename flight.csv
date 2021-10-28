@@ -1,0 +1,12 @@
+Route,Source.lat,Source.lon,Dest.lat,Dest.lon
+Los Angeles-Seattle,34.5,-118.25,47.6097,-122.333
+Los Angeles-Houston,34.5,-118.25,29.7628,-95.3831
+Los Angeles-Salt Lake,34.5,-118.25,40.75,-111.883
+Los Angeles-Denver,34.5,-118.25,39.7392,-104.985
+Los Angeles-Chicago,34.5,-118.25,41.8819,-87.6278
+Los Angeles-Phoenix,34.5,-118.25,33.45,-112.067
+Atlanta-New York,33.755,-84.39,40.7127,-74.0059
+Atlanta-Pittsburgh,33.755,-84.39,40.4417,-80
+Atlanta-Newark,33.755,-84.39,40.7242,-74.1726
+Atlanta-Boston,33.755,-84.39,42.3581,-71.0636
+Atlanta-Minneapolis,33.755,-84.39,44.9833,-93.2667
