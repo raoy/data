@@ -1,0 +1,9 @@
+Factor,Smoking,CHD,No-CHD,Total
+Type-A,Nonsmoker,70,714,784
+Type-A,1-20,45,353,398
+Type-A,21-30,34,185,219
+Type-A,>30,29,159,188
+Type-B,Nonsmoker,28,840,868
+Type-B,1-20,25,382,407
+Type-B,21-30,16,170,186
+Type-B,>30,10,94,104
